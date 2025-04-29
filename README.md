@@ -59,3 +59,5 @@ The jupyer notebook for this project is available under this same repository und
 
 ### Chapter V - Adversarial Search
 
+https://youtu.be/LCwb4y-Xpj0
+
