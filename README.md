@@ -1,12 +1,12 @@
 # AI-portfolio
-##Purpose
+## Purpose
 
 This portfolio is made as a demonstration of my progress, learnings and accomplishments of in my ICOM5015 Artificial Intelligence class. Artificial Intelligence is proof that with rationality and optimization us as people can implement many fields of study to create new solutions. 
 
 
-##Developments 
+## Developments 
 
-###Chapter I - Introductions
+### Chapter I - Introductions
 
 Before working on it we must first understand the concept of intelligence. In our first forum I expressed my initial understanding of intelligence, as "Intelligence to me is the processing of information and filtering that of which is ethical and not ethical, logical and not logical as well filtering what we know and what we can learn more from. It can be spread out into different subjects, but fundamentally is how we understand and distinguish what is true and not in the world around us."
 
@@ -17,7 +17,7 @@ After further studies, on intelligence we were assigned on writing an essay on w
 https://docs.google.com/document/d/1UpWPzw7BXsIFQ9lutpGxOx41jK2KuqqUfAqR8lEQp9A/edit?usp=sharing
 
 
-####Chapter II - Agents
+### Chapter II - Agents
 
 An agent is anything that can be viewed as receiving information from its environment through sensors and acting up on that environment through sensors and acting up on that environment through actuators. To evaluate these we learned the PEAS analysis system. P - Perfomance, E - Environment, A - Actuators and S - Sensors. We were assigned to do a practical implementation of AI using PEAS analysis on any idea realistic in the near future. I will include my forum post below.
 
@@ -42,7 +42,7 @@ References
 
 We also did a study to see if python is fast or slow on which I will link to the video with our results - https://youtu.be/0hEylpkEBtk and did a programming assignment in this chapter for agents. These are our results on our programming assignment for agents - https://youtu.be/oJgBcUDebY8. PDFs will be available for the programming projects of this chapter and all essays as though we had not picked up Jupyter Notebook at the time and all the video presentations are in Spanish.
 
-###Chapter III - Solving Problems by Search 
+### Chapter III - Solving Problems by Search 
 
 In this chapter we covered the basic concepts of search. I learned that finding one solution in a decision tree does not really require an informed search algorithm as it does not need any additional information beyond the root and the first solution goal node. As well as that the problem formulation for search algorithm needs the path cost, goal test, Description of what each action does (Transition Model), Description of possible actions available to the agent in each state and initial state.
 
@@ -52,10 +52,10 @@ Then we studied informed search where we covered complete and admissable heurist
 The jupyter notebook of this project is also available in this same repository under the name of Chapter3Notebook.ipynb 
 
 
-###Chapter IV - Beyond classical search
+### Chapter IV - Beyond classical search
 
 In this chapter we covered the simulated annealing search, hill-climbing, local beam search, genetic algorithms local search in continuous spaces, Online and Offline search. It was a long chapter with pretty complex topics and in which we had another programming assignment of which a link to our presentation is the following - https://youtu.be/hv3zI87VeVU.
 The jupyer notebook for this project is available under this same repository under the name of Chapter4Notebook.ipynb -
 
-###Chapter V - Adversarial Search
+### Chapter V - Adversarial Search
 
