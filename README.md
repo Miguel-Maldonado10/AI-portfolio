@@ -1,7 +1,7 @@
 # AI-portfolio
 ## Purpose
 
-This portfolio is made as a demonstration of my progress, learnings and accomplishments of in my ICOM5015 Artificial Intelligence class. Artificial Intelligence is proof that with rationality and optimization us as people can implement many fields of study to create new solutions. 
+This portfolio is made as a demonstration of my progress, learnings and accomplishments of in my ICOM5015 Artificial Intelligence class. Artificial Intelligence is proof that with rationality and optimization we can implement many fields of study to create new solutions. 
 
 
 ## Developments 
