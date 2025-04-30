@@ -127,3 +127,13 @@ This article helped me understand more of how I needed to think to solve most AI
 
 
 ## Applications and Demonstrations
+
+I will provide a list below of some of my code files, the report and the video presentations of these programming assignments.
+
+Code for an agent to traverse a continuous space with polygonal obstacles
+https://github.com/Miguel-Maldonado10/AI-portfolio/blob/main/search.py
+
+Corresponding Report - https://github.com/Miguel-Maldonado10/AI-portfolio/blob/main/Chapter3PAReport.ipynb
+Corresponding video demonstration - https://youtu.be/oAyXamHATFY
+
+In this one I applied A*Search algorithms and Breadth first search algorithms to navigate a plane with polygonal obstacles.
