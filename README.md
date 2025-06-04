@@ -15,7 +15,7 @@ But most importantly I learned to design and implement an AI system throughout t
 
 ## Exams
 
-As of the day I'm writing this I have a 62% on the only partial exams, I expect to be able to raise this grade on our final exam. 
+I received a 62% on my partial exam yet after hard work and dedication I achieved a 92.81% in my final exam.
 
 ## Programming Assignments 
 
@@ -73,7 +73,7 @@ Report(English) - https://github.com/Miguel-Maldonado10/AI-portfolio/blob/main/C
 
 ## Quizzes
 
-My overall quiz score is a D, while I really understood topics like Critical Thinking, Inmformed and Uninformed Search and Adversarial Search I struggled on topics like Hill CLimbing and heuristic functions, Simmulated Annealing and Genetic Algorithm.
+My overall quiz score is a 69.92% D, while I really understood topics like Critical Thinking, Inmformed and Uninformed Search and Adversarial Search I struggled on topics like Hill CLimbing and heuristic functions, Simmulated Annealing and Genetic Algorithm.
 
 ## Essays and Forums
 
